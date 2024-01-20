@@ -1,24 +1,5 @@
-Tip Time - Solution Code
-=================================
+A simple Tip Calculator app in Jetpack Compose 
+Supports English and Greek languages and also has a dynamic color app icon
 
-Starter code for the [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course): Tip Time app.
+![Screenshot_20240120_142252](https://github.com/NickSidiropoulos/Tip-Calculator-Jetpack/assets/12250619/c5333e4e-72dc-4d9f-a5a0-397411ea607d)
 
-
-Introduction
-------------
-The Tip Time app contains various UI elements for calculating a tip,
-teaching about user input, and State in Compose.
-
-
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
